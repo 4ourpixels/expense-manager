@@ -1,4 +1,1 @@
-# codeblack
-Code Black International
-
-Event management system
+A Django app that tracks expenses for events and campaigns/sprints.
